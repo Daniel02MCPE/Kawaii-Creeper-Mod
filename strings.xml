@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dam Matematik</string>
+	<string name="player1">Pemain 1</string>
+	<string name="player2">Pemain 2</string>
+	<string name="score">Markah:</string>
+	<string name="titlename">Dam Matematik</string>
+	<string name="playBtn">Mari Main！</string>
+	<string name="helpBtn">Tolong Saya！</string>
+	<string name="settingsBtn">tetapan ？</string>
+	<string name="languageBtn">Bahasa？</string>
+	<string name="backBtn">Jom Ke Belakang？</string>
+	<string name="dialogTitle">Anda Pasti？</string>
+	<string name="dialogOkBtn">Pasti！</string>
+	<string name="dialogCancelBtn">Tidak</string>
+	
+
+</resources>
